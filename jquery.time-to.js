@@ -101,7 +101,8 @@
         nl:{days:'dagen',  hours:'uren',   min:'minuten',  sec:'seconden'},
         no:{days:'dager',  hours:'timer',  min:'minutter', sec:'sekunder'},
         pt:{days:'dias',   hours:'horas',  min:'minutos',  sec:'segundos'},
-        tr:{days:'gün',    hours:'saat',   min:'dakika',   sec:'saniye'}
+        tr:{days:'gün',    hours:'saat',   min:'dakika',   sec:'saniye'},
+        pl:{days:'dni',    hours:'godzin', min:'minut',    sec:'sekund'}
     };
     
     if(typeof $.support.transition === 'undefined') {
